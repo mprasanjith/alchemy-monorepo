@@ -85,6 +85,7 @@
     "jest-config": "^24.8.0",
     "lint-staged": "^7.3.0",
     "lodash.camelcase": "^4.3.0",
+    "ncp": "^2.0.0",
     "node-gyp": "^3.8.0",
     "prompt": "^1.0.0",
     "replace-in-file": "^3.4.4",
@@ -101,8 +102,7 @@
     "tslint": "^5.18.0",
     "tslint-config-standard": "^8.0.1",
     "typedoc": "^0.15.0",
-    "typescript": "^3.7.5",
-    "u": "^0.1.0"
+    "typescript": "^3.7.5"
   },
   "dependencies": {
     "apollo-cache-inmemory": "^1.6.5",
