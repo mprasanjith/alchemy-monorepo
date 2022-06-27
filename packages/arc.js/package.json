@@ -85,7 +85,7 @@
     "jest-config": "^24.8.0",
     "lint-staged": "^7.3.0",
     "lodash.camelcase": "^4.3.0",
-    "ncp": "^2.0.0",
+    "ncp": "^1.0.1",
     "node-gyp": "^3.8.0",
     "prompt": "^1.0.0",
     "replace-in-file": "^3.4.4",
